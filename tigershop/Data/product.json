@@ -1,0 +1,98 @@
+[
+  {
+    "id" : 1,
+    "name" : "King Burger",
+    "image" : "helmet-no6",
+    "price" : 199,
+    "description" : "A hamburger (also burger for short) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chiles; condiments such as ketchup, mustard, often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger.",
+    "color" : [
+      0.61,
+      0.8,
+      0.89
+    ]
+  },
+  {
+    "id" : 2,
+    "name" : "Soft Drink",
+    "image" : "helmet-no2",
+    "price" : 159,
+    "description" : "A soft drink (see § Terminology for other names) is a drink that usually contains water (often carbonated), a sweetener, and a natural and/or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute (in the case of diet drinks), or some combination of these. Soft drinks may also contain caffeine, colorings, preservatives, and/or other ingredients.",
+    "color" : [
+      0.97,
+      0.87,
+      0.49
+    ]
+  },
+  {
+    "id" : 3,
+    "name" : "Fruit Juice",
+    "image" : "helmet-no3",
+    "price" : 189,
+    "description" : "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. Juice is commonly consumed as a beverage or used as an ingredient or flavoring in foods or other beverages, as for smoothies.",
+    "color" : [
+      0.53,
+      0.82,
+      0.63
+    ]
+  },
+  {
+    "id" : 4,
+    "name" : "French Fries",
+    "image" : "helmet-no7",
+    "price" : 89,
+    "description" : "French fries, or simply fries (North American English), chips (British and Commonwealth English, Hiberno-English),[1] finger chips (Indian English),[2] or French-fried potatoes, are batonnet or allumette-cut deep-fried potatoes.",
+    "color" : [
+      1,
+      0.56,
+      0.63
+    ]
+  },
+  {
+    "id" : 5,
+    "name" : "Humburger",
+    "image" : "helmet-no8",
+    "price" : 364,
+    "description" : "A hamburger (also burger for short) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chiles; condiments such as ketchup, mustard, mayonnaise, relish. A hamburger topped with cheese is called a cheeseburger.",
+    "color" : [
+      0.74,
+      0.65,
+      0.5
+    ]
+  },
+  {
+    "id" : 7,
+    "name" : "Apple Juice",
+    "image" : "helmet-no1",
+    "price" : 234,
+    "description" : "Apple juice is a fruit juice made by the maceration and pressing of an apple. The resulting expelled juice may be further treated by enzymatic and centrifugal clarification to remove the starch and pectin, which holds fine particulate in suspension, and then pasteurized for packaging in glass, metal, or aseptic processing system containers, or further treated by dehydration processes to a concentrate.",
+    "color" : [
+      0.64,
+      0.51,
+      0.67
+    ]
+  },
+  {
+    "id" : 6,
+    "name" : "Yummy Ramen",
+    "image" : "helmet-no5",
+    "price" : 279,
+    "description" : "Ramen is a Japanese noodle soup. It consists of Chinese wheat noodles served in a meat or fish-based broth, often flavored with soy sauce or miso, and uses toppings such as sliced pork, nori (dried seaweed), menma, and scallions. Nearly every region in Japan has its own variation of ramen, such as the tonkotsu ramen of Kyushu and the miso ramen of Hokkaido. Mazemen is a ramen dish that is not served in a soup, but rather with a sauce.",
+    "color" : [
+      0.75,
+      0.75,
+      0.8
+    ]
+  },
+  {
+    "id" : 8,
+    "name" : "Yap Cupcake",
+    "image" : "helmet-no4",
+    "price" : 314,
+    "description" : "A cupcake (also British English: fairy cake; Hiberno-English: bun; Australian English: fairy cake or patty cake[1]) is a small cake designed to serve one person, which may be baked in a small thin paper or aluminum cup. As with larger cakes, frosting and other cake decorations such as fruit and candy may be applied.",
+    "color" : [
+      0.35,
+      0.35,
+      0.4
+    ]
+  }
+]

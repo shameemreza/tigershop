@@ -1,0 +1,82 @@
+[
+  {
+    "id" : 1,
+    "name" : "Foods",
+    "image" : "icon-helmet"
+  },
+  {
+    "id" : 2,
+    "name" : "Men Fahion",
+    "image" : "icon-jersey"
+  },
+  {
+    "id" : 3,
+    "name" : "Health",
+    "image" : "icon-gloves"
+  },
+  {
+    "id" : 4,
+    "name" : "Shoes",
+    "image" : "icon-shoes"
+  },
+  {
+    "id" : 5,
+    "name" : "Men Jacket",
+    "image" : "icon-shoulder-pads"
+  },
+  {
+    "id" : 6,
+    "name" : "Pants",
+    "image" : "icon-integrated-pad-girdle"
+  },
+  {
+    "id" : 7,
+    "name" : "Grocery",
+    "image" : "icon-football"
+  },
+  {
+    "id" : 8,
+    "name" : "Women Cloth",
+    "image" : "icon-outerwear"
+  },
+  {
+    "id" : 9,
+    "name" : "Education",
+    "image" : "icon-ticket"
+  },
+  {
+    "id" : 10,
+    "name" : "Household",
+    "image" : "icon-trophy"
+  },
+  {
+    "id" : 11,
+    "name" : "Energy Drink",
+    "image" : "icon-energy-drink"
+  },
+  {
+    "id" : 12,
+    "name" : "Medical",
+    "image" : "icon-ppe-facemask"
+  },
+  {
+    "id" : 13,
+    "name" : "Kids CLoth",
+    "image" : "icon-cheerleading-clothes"
+  },
+  {
+    "id" : 14,
+    "name" : "Fashion",
+    "image" : "icon-cheerleading-gear"
+  },
+  {
+    "id" : 15,
+    "name" : "Hardware",
+    "image" : "icon-whistle"
+  },
+  {
+    "id" : 16,
+    "name" : "Travels",
+    "image" : "icon-stopwatch"
+  }
+]
